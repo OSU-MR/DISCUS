@@ -3,7 +3,7 @@ The preliminary publication is available at [IEEE ISBI 2024](https://doi.org/10.
 
 Contact: sultan.47@osu.edu, rizwan.ahmad@osumc.edu
 ## Setup
-Install the required packages and build environment using "requirements.txt"
+Install the required packages and build environment using `requirements.txt`
 
 ## Implemented methods
 - Compressed Sensing with Wavelet regularization in folder `DISCUS`
