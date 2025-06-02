@@ -1,5 +1,5 @@
 # Deep Image Prior with StruCtUred Sparsity (DISCUS)
-The preliminary publication is available at [IEEE ISBI 2024](https://doi.org/10.1109/ISBI56570.2024.10635579). 
+The journal publication is available at [MRMP](https://link.springer.com/article/10.1007/s10334-025-01257-z). 
 
 Contact: sultan.47@osu.edu, rizwan.ahmad@osumc.edu
 ## Setup
